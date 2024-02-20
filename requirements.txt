@@ -1,0 +1,14 @@
+yfinance
+pandas_datareader.data
+datetime
+pandas
+warnings
+pytest
+statsmodels.regression.rolling
+matplotlib.pyplot
+statsmodels.api
+fpdf2
+io
+argparse
+openpyxl
+xlrd
