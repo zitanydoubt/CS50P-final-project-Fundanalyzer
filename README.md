@@ -1,5 +1,4 @@
 # Fama-French-fund analyzer
-#### Video Demo:  <https://youtu.be/QZ-IWXg7BPk>
 #### Description:
 
 ##### Motivation for this project
